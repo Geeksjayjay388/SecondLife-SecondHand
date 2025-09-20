@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Heart, MapPin, Star, Search, Menu, X, Plus, Upload } from 'lucide-react';
-
+import { Link } from 'react-router-dom';
 // SearchBar Component
 function SearchBar({ searchTerm, setSearchTerm, selectedFilter, setSelectedFilter }) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -53,6 +53,11 @@ function SearchBar({ searchTerm, setSearchTerm, selectedFilter, setSelectedFilte
               <Upload className="w-4 h-4" />
               <span>Sell Item</span>
             </button>
+            <Link to="/profile">
+             <button className="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-full flex items-center gap-2 font-medium transition-colors duration-200">
+              About us
+             </button>
+           </Link>
           </div>
 
           {/* Mobile Menu Button */}
