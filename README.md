@@ -187,7 +187,7 @@ Write descriptive component and function names
 📄 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 👤 Author
-Your Name
+Jacob Sihul
 
 GitHub: Geeksjayjay
 Email: jacobsihul911@gmail.com
