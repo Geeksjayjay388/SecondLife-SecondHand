@@ -3,12 +3,12 @@ import { Heart, HelpCircle, MessageCircle, FileText, Mail, Phone, Shield, Extern
 function Footer(){
 
     return(
-        <footer className="bg-gray-900 text-white">
+        <footer className="bg-gray-900 text-white min-h-screen">
         <div className="max-w-6xl mx-auto px-6 py-12">
           <div className="grid md:grid-cols-4 gap-8">
             {/* Company Info */}
             <div>
-              <h3 className="text-lg font-bold mb-4">Your App Name</h3>
+              <h3 className="text-lg font-bold mb-4">Black Vendors</h3>
               <p className="text-gray-400 text-sm leading-relaxed mb-4">
                 Empowering users with innovative solutions and exceptional experiences since 2024.
               </p>
@@ -41,9 +41,9 @@ function Footer(){
                   </a>
                 </li>
                 <li>
-                  <a href="mailto:support@yourapp.com" className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 text-sm">
+                  <a href="mailto:support@blackvendors.com" className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 text-sm">
                     <Mail className="w-4 h-4" />
-                    support@yourapp.com
+                    support@blackvendor.com
                   </a>
                 </li>
                 <li>
@@ -126,7 +126,7 @@ function Footer(){
           <div className="border-t border-gray-800 mt-12 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
               <p className="text-gray-400 text-sm">
-                © 2024 Your App Name. All rights reserved.
+                © 2025 Black Vendors Inc. All rights reserved.
               </p>
               <div className="flex gap-6">
                 <a href="#twitter" className="text-gray-400 hover:text-white transition-colors text-sm">
