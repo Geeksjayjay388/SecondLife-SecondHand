@@ -35,24 +35,8 @@ Built with precision, scalability, and user experience in mind, this project dem
 
 ---
 
-## 📦 Installation & Setup
 
-```bash
-# Clone the repository
-git clone https://github.com/Geeksjayjay388/SecondLife-SecondHand.git
-cd SecondLife-SecondHand
-
-# Install frontend dependencies
-cd client
-npm install
-
-# Install backend dependencies
-cd ../server
-npm install
-
-# Start the development server
-npm run dev
-Terms of Use
+## Terms of Use
 This project is intended for educational and community-building purposes. Users are expected to:
 
 Post only genuine second-hand items
@@ -65,7 +49,7 @@ Respect privacy and avoid sharing sensitive personal data
 
 The developer is not responsible for transactions made through the platform. All listings are user-generated and subject to moderation.
 
-🧑‍💻 Developer Profile
+## Developer Profile
 Jacob Sihul Software Engineer | Full-stack Developer | UEAB Student
 
 Jacob is passionate about building practical tools that solve real problems. With a strong foundation in backend architecture, UI/UX design, and academic rigor, he brings both technical mastery and community insight to every project.
@@ -86,7 +70,7 @@ Jacob is passionate about building practical tools that solve real problems. Wit
 📬 Contact & Collaboration
 For feedback, contributions, or collaboration opportunities:
 
-📧 Email: [your-email@example.com] 📱 Phone: [your-phone-number] 🌐 GitHub: github.com/Geeksjayjay388
+📧 Email: [jacobsihul911@gmail.com] 📱 Phone: [0794787682] 🌐 GitHub: github.com/Geeksjayjay388
 
 📝 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it with proper attribution.
